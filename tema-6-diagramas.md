@@ -368,7 +368,7 @@
   <text x="570" y="166" class="s">Principios éticos y</text>
   <text x="570" y="184" class="s">régimen sancionador</text>
   <text x="570" y="202" class="s">de los altos cargos</text>
-  <rect x="180" y="250" width="340" height="38" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <rect x="120" y="250" width="460" height="38" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="350" y="274" class="s" style="font-weight:700;fill:#b5740f">Control del cumplimiento: Consejo de Transparencia y Buen Gobierno</text>
 </svg>
 ```
