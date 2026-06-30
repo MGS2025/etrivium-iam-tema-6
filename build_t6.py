@@ -161,7 +161,7 @@ def diagramas_html(blocks):
 
 # ---------- Test ----------
 def parse_test(md):
-    seg = md.split("## BANCO DE 150 PREGUNTAS")[1].split("## PLANTILLA DE RESPUESTAS")[0]
+    seg = md.split("## BANCO DE PREGUNTAS")[1].split("## PLANTILLA DE RESPUESTAS")[0]
     lines = seg.split("\n")
     qs = []
     cur = None
@@ -243,8 +243,8 @@ def build():
     <p class="subtitle">Derechos de los ciudadanos (art. 13) · Los interesados (arts. 3-12) · Identificación y firma electrónica · Los registros (art. 16) · Cómputo de plazos · El derecho de acceso a la información pública · La Ordenanza de Transparencia de la Ciudad de Madrid (2016)</p>
   </div>
   <div class="version-banner">
-    <span class="badge badge-v1">v1.0</span>
-    <div><strong>Generación inicial · pendiente de validación (María / Ana, IAM)</strong><br>
+    <span class="badge badge-v1">v1.1</span>
+    <div><strong>Correcciones de María (IAM) aplicadas · art. 53, art. 17 y registro de lobbies añadidos</strong><br>
     <small>Bloque I — Administrativo/Jurídico · C1 Técnico Auxiliar TIC · Ayuntamiento de Madrid · 2026-06-25</small></div>
   </div>
   <div class="card">
@@ -257,9 +257,9 @@ def build():
       <thead><tr><th>Pestaña</th><th>Contenido</th></tr></thead>
       <tbody>
         <tr><td><strong>Índice</strong></td><td>Estructura del tema y conceptos clave por sección</td></tr>
-        <tr><td><strong>Contenido</strong></td><td>15 secciones con texto, tablas y callouts de estudio</td></tr>
+        <tr><td><strong>Contenido</strong></td><td>17 secciones con texto, tablas y callouts de estudio</td></tr>
         <tr><td><strong>Diagramas</strong></td><td>12 esquemas visuales (SVG)</td></tr>
-        <tr><td><strong>Test</strong></td><td>150 preguntas tipo examen con corrección automática y penalización 1/3</td></tr>
+        <tr><td><strong>Test</strong></td><td>160 preguntas tipo examen con corrección automática y penalización 1/3</td></tr>
         <tr><td><strong>Casos</strong></td><td>6 casos prácticos aplicados a un funcionario TIC del IAM</td></tr>
         <tr><td><strong>Validación</strong></td><td>Checklist de revisión para María / Ana (IAM)</td></tr>
         <tr><td><strong>Fuentes</strong></td><td>Registro normativo y normas de citación</td></tr>
@@ -275,7 +275,7 @@ def build():
   <button class="tab-btn" data-tab="indice">Índice</button>
   <button class="tab-btn" data-tab="contenido">Contenido</button>
   <button class="tab-btn" data-tab="diagramas">Diagramas</button>
-  <button class="tab-btn" data-tab="test">Test <span class="version-badge">150</span></button>
+  <button class="tab-btn" data-tab="test">Test <span class="version-badge">160</span></button>
   <button class="tab-btn" data-tab="casos">Casos</button>
   <button class="tab-btn" data-tab="validacion">Validación</button>
   <button class="tab-btn" data-tab="fuentes">Fuentes</button>
@@ -284,7 +284,7 @@ def build():
     test_section = '''
 <section id="test" class="tab-content">
   <h1>Test de autoevaluación</h1>
-  <p class="subtitle">150 preguntas tipo examen (A/B/C). Penalización: cada fallo resta 1/3 de un acierto.</p>
+  <p class="subtitle">160 preguntas tipo examen (A/B/C). Penalización: cada fallo resta 1/3 de un acierto.</p>
   <div class="test-controls">
     <button class="btn btn-blue" id="btn-correct">Corregir test</button>
     <button class="btn btn-outline" id="btn-show-all">Mostrar todas las respuestas</button>

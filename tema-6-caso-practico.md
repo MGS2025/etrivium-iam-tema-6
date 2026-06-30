@@ -2,7 +2,7 @@
 
 > **Título oficial**: Ley 39/2015 (LPACAP): derechos, interesados y registros. Ley 19/2013 (LTBG): derecho de acceso a la información pública.
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Pendiente validación
+> **Versión**: 1.1 — Correcciones de María (art. 53, art. 17 y registro de lobbies)
 > **Fecha**: 2026-06-25
 > **Formato**: 6 casos prácticos con escenario, cuestiones puntuadas (suman 10 puntos por caso), solución orientativa y criterios de evaluación.
 

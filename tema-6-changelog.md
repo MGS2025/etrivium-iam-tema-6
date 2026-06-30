@@ -4,6 +4,21 @@
 
 ---
 
+## v1.1 — 2026-06-25 — Correcciones de María (IAM)
+
+**Estado**: Revisión de María aplicada. Pendiente de validación final.
+
+### Cambios
+
+- **Nota de conexión en el art. 13 (§3)**: se enlazan las letras d) (acceso → LTBG y art. 17), g) (identificación/firma → §7) y h) (protección de datos → límite del art. 15 LTBG) con los epígrafes donde se desarrollan, y con el nuevo §4 (art. 53). Evita estudiar esos epígrafes como bloques desconectados.
+- **Nuevo §4 — Derechos del interesado en el procedimiento (art. 53)**: faltaba. Catálogo del art. 53.1 (estado de tramitación, no aportar documentos ya en poder de la AP, alegar, asesor…) y derechos del presunto responsable en el procedimiento sancionador (art. 53.2, presunción de no responsabilidad). El enunciado oficial pide "derechos de los ciudadanos… y Registros", y el art. 53 es la concreción de esos derechos una vez iniciado el procedimiento.
+- **Nuevo §9 — Los archivos administrativos. El Archivo Electrónico Único (art. 17)**: faltaba. El enunciado habla de "Registros" en plural; se distingue el **registro** de entrada/salida (art. 16) del **archivo** (art. 17), que conserva los documentos de procedimientos finalizados garantizando autenticidad, integridad y consulta en el tiempo. Especialmente relevante para el perfil TIC (infraestructura de preservación de expedientes electrónicos).
+- **Desarrollo del Registro de grupos de interés (lobbies)** en §16.1: quién debe inscribirse, carácter **obligatorio**, carácter **público** y qué información se publica (identidad, intereses representados, reuniones con cargos / agendas).
+- **+10 preguntas de test** (151-160) sobre el contenido nuevo (art. 53, art. 17 y lobbies). Total: **160 preguntas**.
+- **Renumeración** de secciones (15 → 17) y actualización de índice, diagramas (referencias de sección), validación y esquema-resumen en consecuencia.
+
+---
+
 ## v1.0 — 2026-06-25 — Generación inicial completa
 
 **Estado**: Pendiente de validación por María / Ana (IAM) y de confirmación de datos volátiles por Jesús (eTrivium).

@@ -1,9 +1,9 @@
 # Tema 6 — Test de Autoevaluación
 
 > **Título**: Ley 39/2015 (LPACAP): derechos, interesados y registros. Ley 19/2013 (LTBG): derecho de acceso a la información pública.
-> **Formato**: 150 preguntas tipo test A/B/C (formato oficial oposición).
+> **Formato**: 160 preguntas tipo test A/B/C (formato oficial oposición).
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Pendiente validación
+> **Versión**: 1.1 — Pendiente validación
 > **Fecha**: 2026-06-25
 > **Fuentes**: ver `tema-6-fuentes.md`
 
@@ -18,7 +18,7 @@
 
 ---
 
-## BANCO DE 150 PREGUNTAS — FORMATO EXAMEN
+## BANCO DE PREGUNTAS — FORMATO EXAMEN
 
 ### Bloque 1 — La LPACAP: objeto, ámbito y relación con la Ley 40/2015
 
@@ -941,6 +941,68 @@
    - b) Está derogada desde 2017.
    - c) Nunca llegó a aprobarse.
    - **Respuesta: a** · *ORD-MAD (vigente)*
+
+### Bloque 12 — Ampliación v1.1 (derechos del interesado, archivos y lobbies)
+
+151. Los derechos del interesado en un procedimiento ya iniciado se regulan en:
+   - a) El art. 53 LPACAP.
+   - b) El art. 13 LPACAP.
+   - c) El art. 20 LTBG.
+   - **Respuesta: a** · *LPACAP, art. 53*
+
+152. Es un derecho del interesado del art. 53 LPACAP:
+   - a) Conocer en cualquier momento el estado de tramitación del procedimiento.
+   - b) Obtener una plaza de funcionario.
+   - c) Acceder a cualquier información de otra Administración sin solicitud.
+   - **Respuesta: a** · *LPACAP, art. 53.1.a*
+
+153. El interesado tiene derecho a no aportar:
+   - a) Documentos ya en poder de las Administraciones o elaborados por ellas.
+   - b) Ningún documento en ningún caso.
+   - c) Solo el DNI.
+   - **Respuesta: a** · *LPACAP, art. 53.1.d*
+
+154. En el procedimiento sancionador, el presunto responsable tiene derecho a:
+   - a) La presunción de no responsabilidad mientras no se demuestre lo contrario.
+   - b) Ser sancionado sin notificación previa.
+   - c) Elegir al instructor.
+   - **Respuesta: a** · *LPACAP, art. 53.2*
+
+155. La distinción clave entre el art. 13 y el art. 53 LPACAP es:
+   - a) El art. 13 es de todas las personas; el art. 53, del interesado en un procedimiento iniciado.
+   - b) Son idénticos.
+   - c) El art. 13 es del interesado y el art. 53 de cualquiera.
+   - **Respuesta: a** · *LPACAP, arts. 13 y 53*
+
+156. El Archivo Electrónico Único del art. 17 LPACAP conserva:
+   - a) Los documentos electrónicos de procedimientos finalizados.
+   - b) Solo los documentos en tramitación.
+   - c) Únicamente documentos en papel.
+   - **Respuesta: a** · *LPACAP, art. 17.1*
+
+157. La diferencia entre el art. 16 y el art. 17 LPACAP es:
+   - a) El art. 16 regula el registro (entrada/salida); el art. 17, el archivo (conservación).
+   - b) Ambos regulan lo mismo.
+   - c) El art. 16 regula el archivo y el art. 17 el registro.
+   - **Respuesta: a** · *LPACAP, arts. 16-17*
+
+158. El Archivo Electrónico Único debe garantizar:
+   - a) La autenticidad, integridad y conservación de los documentos, y su consulta en el tiempo.
+   - b) La destrucción de los documentos a los 5 años.
+   - c) El acceso libre sin control de usuarios.
+   - **Respuesta: a** · *LPACAP, art. 17.2*
+
+159. El Registro de grupos de interés (lobbies) de la Ordenanza de Madrid es:
+   - a) Obligatorio para quienes realizan actividades de influencia, y público.
+   - b) Voluntario y secreto.
+   - c) Exclusivo para funcionarios.
+   - **Respuesta: a** · *ORD-MAD*
+
+160. Respecto al Registro de lobbies de Madrid, los cargos municipales:
+   - a) Solo mantienen reuniones sobre esas materias con grupos inscritos.
+   - b) Pueden reunirse con cualquiera sin registro.
+   - c) Tienen prohibido reunirse con grupos de interés.
+   - **Respuesta: a** · *ORD-MAD*
 
 ---
 

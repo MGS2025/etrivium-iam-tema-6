@@ -4,7 +4,7 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Generación inicial
+> **Versión**: 1.1 — Correcciones de María (art. 53, art. 17 y registro de lobbies)
 > **Fecha**: 2026-06-25
 
 ---
@@ -26,7 +26,7 @@ El Tema 6 trabaja con un **corpus normativo cerrado de tres normas estatales + u
 
 | Ref | Título | Publicación / origen | Uso |
 |---|---|---|---|
-| [LPACAP] | Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas | BOE núm. 236 de 02/10/2015 (versión consolidada) | **Fuente nuclear 1**: derechos (art. 13), interesados (arts. 3-12), registros (art. 16), identificación/firma (arts. 9-12), plazos (arts. 30-31), relación electrónica (art. 14) |
+| [LPACAP] | Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas | BOE núm. 236 de 02/10/2015 (versión consolidada) | **Fuente nuclear 1**: derechos del art. 13, **derechos del interesado (art. 53)**, interesados (arts. 3-12), registros (art. 16) y **archivos / Archivo Electrónico Único (art. 17)**, identificación/firma (arts. 9-12), plazos (arts. 30-31), relación electrónica (art. 14) |
 | [LRJSP] | Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público | BOE núm. 236 de 02/10/2015 (versión consolidada) | Relación 39/2015 ↔ 40/2015 (§2); deslinde procedimiento vs régimen jurídico |
 | [LTBG] | Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno | BOE núm. 295 de 10/12/2013 (versión consolidada) | **Fuente nuclear 2**: publicidad activa (arts. 5-11), derecho de acceso (arts. 12-24), CTBG (arts. 33-40) |
 | [ORD-MAD] | Ordenanza de Transparencia de la Ciudad de Madrid | Acuerdo del Pleno de 27/07/2016 · BOAM nº 7724 de 17/08/2016 (texto consolidado) | Capa municipal (§14): ámbito, principios, especialidades, registro de grupos de interés |
@@ -85,7 +85,7 @@ El Tema 6 trabaja con un **corpus normativo cerrado de tres normas estatales + u
 
 Cada pregunta del banco y cada cuestión de los casos prácticos debe poder reconducirse a:
 
-1. Un artículo concreto de la **LPACAP** (arts. 3-16, 30-31), o
+1. Un artículo concreto de la **LPACAP** (arts. 3-17, 30-31, 53), o
 2. Un artículo de la **LTBG** (arts. 5-24, 33-40), o
 3. Un precepto de la **Ordenanza de Transparencia de Madrid**, o
 4. Un precepto constitucional invocado (arts. 105.b, 9.3 CE).

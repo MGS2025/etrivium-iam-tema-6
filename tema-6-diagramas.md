@@ -2,7 +2,7 @@
 
 > **Título oficial**: Ley 39/2015 (LPACAP): derechos, interesados y registros. Ley 19/2013 (LTBG): derecho de acceso a la información pública.
 >
-> **Versión**: 1.0 — Generación inicial
+> **Versión**: 1.1 — Correcciones de María (art. 53, art. 17 y registro de lobbies)
 > **Fecha**: 2026-06-25
 > **Formato**: SVG inline (zero-dependencias, escalable, imprimible)
 > **Paleta**: Ayuntamiento de Madrid #0055a0 (primario) + #d13c3c (alertas) + #2d8659 (ventajas) + #e89822 (callouts)
@@ -14,17 +14,17 @@
 | ID  | Título                                                  | Sección | Tipo |
 |-----|---------------------------------------------------------|---------|------|
 | D1  | LPACAP y LRJSP: la pareja de leyes de 2015              | § 1-2   | Esquema |
-| D2  | Derechos de las personas ante las AAPP (art. 13)        | § 3     | Lista |
-| D3  | Derechos en el ámbito digital                           | § 4     | Esquema |
-| D4  | Los interesados: capacidad de obrar y representación    | § 5     | Árbol |
-| D5  | Identificación vs firma electrónica                     | § 6     | Comparativa |
-| D6  | El Registro Electrónico General                         | § 7     | Esquema |
-| D7  | Sujetos obligados a relacionarse electrónicamente       | § 8     | Lista |
-| D8  | La Ley 19/2013: los tres pilares de la transparencia    | § 9     | Árbol |
-| D9  | Publicidad activa: categorías de información            | § 10    | Comparativa |
-| D10 | El derecho de acceso: procedimiento y plazos            | § 11-12 | Flujo |
-| D11 | Límites, inadmisión y reclamación ante el CTBG          | § 12-13 | Flujo |
-| D12 | Mapa-resumen del Tema 6                                 | § 15    | Mapa conceptual |
+| D2  | Derechos de las personas ante las AAPP (art. 13)        | § 3-4   | Lista |
+| D3  | Derechos en el ámbito digital                           | § 5     | Esquema |
+| D4  | Los interesados: capacidad de obrar y representación    | § 6     | Árbol |
+| D5  | Identificación vs firma electrónica                     | § 7     | Comparativa |
+| D6  | El Registro Electrónico General y el Archivo Único      | § 8-9   | Esquema |
+| D7  | Sujetos obligados a relacionarse electrónicamente       | § 10    | Lista |
+| D8  | La Ley 19/2013: los tres pilares de la transparencia    | § 11    | Árbol |
+| D9  | Publicidad activa: categorías de información            | § 12    | Comparativa |
+| D10 | El derecho de acceso: procedimiento y plazos            | § 13-14 | Flujo |
+| D11 | Límites, inadmisión y reclamación ante el CTBG          | § 14-15 | Flujo |
+| D12 | Mapa-resumen del Tema 6                                 | § 17    | Mapa conceptual |
 
 ---
 
@@ -72,7 +72,7 @@
 
 ## D2 · Derechos de las personas ante las AAPP (art. 13)
 
-**Sección**: § 3 — Catálogo de derechos
+**Sección**: § 3-4 — Catálogo de derechos (art. 13) y derechos del interesado (art. 53)
 **Propósito**: Fijar el catálogo del art. 13 LPACAP, distinguiéndolo de los derechos del interesado (art. 53).
 
 ```svg
@@ -114,7 +114,7 @@
 
 ## D3 · Derechos en el ámbito digital
 
-**Sección**: § 4 — Administración electrónica
+**Sección**: § 5 — Administración electrónica
 **Propósito**: Mostrar la dimensión digital de los derechos y la regla de elección de canal.
 
 ```svg
@@ -153,7 +153,7 @@
 
 ## D4 · Los interesados: capacidad de obrar y representación
 
-**Sección**: § 5 — Interesados (arts. 3-6)
+**Sección**: § 6 — Interesados (arts. 3-6)
 **Propósito**: Distinguir quién es interesado, quién tiene capacidad de obrar y cómo se acredita la representación.
 
 ```svg
@@ -202,7 +202,7 @@
 
 ## D5 · Identificación vs firma electrónica
 
-**Sección**: § 6 — Identificación y firma (arts. 9-12)
+**Sección**: § 7 — Identificación y firma (arts. 9-12)
 **Propósito**: Fijar la diferencia clave identificación ≠ firma (muy preguntada).
 
 ```svg
@@ -240,7 +240,7 @@
 
 ## D6 · El Registro Electrónico General
 
-**Sección**: § 7 — Registros (art. 16)
+**Sección**: § 8-9 — Registros (art. 16) y archivos (art. 17)
 **Propósito**: Características del Registro Electrónico General y lugares de presentación.
 
 ```svg
@@ -285,7 +285,7 @@
 
 ## D7 · Sujetos obligados a relacionarse electrónicamente
 
-**Sección**: § 8 — Art. 14.2 LPACAP
+**Sección**: § 10 — Art. 14.2 LPACAP
 **Propósito**: Memorizar los cinco sujetos obligados del art. 14.2.
 
 ```svg
@@ -332,7 +332,7 @@
 
 ## D8 · La Ley 19/2013: los tres pilares de la transparencia
 
-**Sección**: § 9 — Estructura de la LTBG
+**Sección**: § 11 — Estructura de la LTBG
 **Propósito**: Fijar los tres pilares de la Ley de Transparencia.
 
 ```svg
@@ -377,7 +377,7 @@
 
 ## D9 · Publicidad activa: categorías de información
 
-**Sección**: § 10 — Arts. 6-8 LTBG
+**Sección**: § 12 — Arts. 6-8 LTBG
 **Propósito**: Las tres grandes categorías de información de publicidad activa.
 
 ```svg
@@ -422,7 +422,7 @@
 
 ## D10 · El derecho de acceso: procedimiento y plazos
 
-**Sección**: § 11-12 — Arts. 17-22 LTBG
+**Sección**: § 13-14 — Arts. 17-22 LTBG
 **Propósito**: Flujo del procedimiento de acceso con los plazos clave.
 
 ```svg
@@ -466,7 +466,7 @@
 
 ## D11 · Límites, inadmisión y reclamación ante el CTBG
 
-**Sección**: § 12-13 — Arts. 14, 18, 24 LTBG
+**Sección**: § 14-15 — Arts. 14, 18, 24 LTBG
 **Propósito**: Síntesis de límites, causas de inadmisión y vía de reclamación.
 
 ```svg
@@ -505,7 +505,7 @@
 
 ## D12 · Mapa-resumen del Tema 6
 
-**Sección**: § 15 — Síntesis
+**Sección**: § 17 — Síntesis
 **Propósito**: Visión integrada de las tres normas y la ordenanza municipal.
 
 ```svg

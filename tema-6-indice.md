@@ -4,7 +4,7 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Generación inicial
+> **Versión**: 1.1 — Correcciones de María (art. 53, art. 17 y registro de lobbies)
 > **Fecha**: 2026-06-25
 
 ---
@@ -16,18 +16,20 @@
 | 1 | La Ley 39/2015 (LPACAP): objeto, ámbito y estructura | LPACAP, arts. 1-2 | D1 |
 | 2 | Relación con la Ley 40/2015 (LRJSP) | LPACAP / LRJSP | D1 |
 | 3 | Derechos de las personas ante las AAPP (art. 13) | LPACAP, art. 13 | D2 |
-| 4 | Derechos en el ámbito digital y administración electrónica | LPACAP, arts. 13, 14, 53 | D3 |
-| 5 | Los interesados: concepto, capacidad de obrar y representación | LPACAP, arts. 3-7 | D4 |
-| 6 | Identificación y firma electrónica de los interesados | LPACAP, arts. 9-12 | D5 |
-| 7 | Los registros administrativos. El Registro Electrónico General | LPACAP, art. 16 | D6 |
-| 8 | Obligación de relacionarse electrónicamente y cómputo de plazos | LPACAP, arts. 14, 30-31 | D7 |
-| 9 | La Ley 19/2013 (LTBG): objeto, ámbito subjetivo y principios | LTBG, arts. 1-4 | D8 |
-| 10 | La publicidad activa (arts. 5-11 LTBG) | LTBG, arts. 5-11 | D9 |
-| 11 | El derecho de acceso a la información pública (arts. 12-24) | LTBG, arts. 12-24 | D10 |
-| 12 | Límites, causas de inadmisión y procedimiento de acceso | LTBG, arts. 14-20 | D10 |
-| 13 | El Consejo de Transparencia y Buen Gobierno. Reclamación | LTBG, arts. 23-24, 33-40 | D11 |
-| 14 | La Ordenanza de Transparencia de la Ciudad de Madrid (2016) | Ord. Transp. Madrid | D12 |
-| 15 | Esquema resumen y conexiones entre normas | — | D12 |
+| 4 | Derechos del interesado en el procedimiento (art. 53) | LPACAP, art. 53 | D2 |
+| 5 | Derechos en el ámbito digital y administración electrónica | LPACAP, arts. 13, 14, 28 | D3 |
+| 6 | Los interesados: concepto, capacidad de obrar y representación | LPACAP, arts. 3-7 | D4 |
+| 7 | Identificación y firma electrónica de los interesados | LPACAP, arts. 9-12 | D5 |
+| 8 | Los registros administrativos. El Registro Electrónico General | LPACAP, art. 16 | D6 |
+| 9 | Los archivos administrativos. El Archivo Electrónico Único | LPACAP, art. 17 | D6 |
+| 10 | Obligación de relacionarse electrónicamente y cómputo de plazos | LPACAP, arts. 14, 30-31 | D7 |
+| 11 | La Ley 19/2013 (LTBG): objeto, ámbito subjetivo y principios | LTBG, arts. 1-4 | D8 |
+| 12 | La publicidad activa (arts. 5-11 LTBG) | LTBG, arts. 5-11 | D9 |
+| 13 | El derecho de acceso a la información pública (arts. 12-24) | LTBG, arts. 12-24 | D10 |
+| 14 | Límites, causas de inadmisión y procedimiento de acceso | LTBG, arts. 14-20 | D10 |
+| 15 | El Consejo de Transparencia y Buen Gobierno. Reclamación | LTBG, arts. 23-24, 33-40 | D11 |
+| 16 | La Ordenanza de Transparencia de la Ciudad de Madrid (2016) | Ord. Transp. Madrid | D12 |
+| 17 | Esquema resumen y conexiones entre normas | — | D12 |
 
 ---
 
@@ -40,7 +42,9 @@
 | Procedimiento Administrativo Común | **Ley 39/2015, de 1 de octubre (LPACAP)** | Encabezamiento |
 | Régimen jurídico del sector público | **Ley 40/2015, de 1 de octubre (LRJSP)** | Encabezamiento |
 | Entrada en vigor de la LPACAP | **2 de octubre de 2016** (un año tras su publicación) | DF 7.ª |
-| Derechos de las personas ante las AAPP | Catálogo del **art. 13** (a comunicarse electrónicamente, a no aportar documentos…) | Art. 13 |
+| Derechos de las personas ante las AAPP | Catálogo del **art. 13** (comunicación electrónica, lenguas oficiales, acceso a la información, identificación/firma, protección de datos) | Art. 13 |
+| Derechos del **interesado** en el procedimiento | Conocer el estado, no aportar documentos ya en poder de la AP, alegar; en el sancionador, **presunción de no responsabilidad** | Art. 53 |
+| Registro vs archivo | **Registro** (art. 16) = entrada/salida; **Archivo Electrónico Único** (art. 17) = conservación de procedimientos **finalizados** | Arts. 16-17 |
 | Concepto de interesado | Titulares de derechos o intereses **legítimos**, individuales o colectivos | Art. 4 |
 | Capacidad de obrar | La de las normas civiles **+ menores** para derechos que el ordenamiento les permita sin asistencia | Art. 3 |
 | Sujetos obligados a relacionarse electrónicamente | Personas **jurídicas**, entidades sin personalidad, profesionales colegiados, empleados públicos… | Art. 14.2 |
@@ -56,7 +60,7 @@
 | Reclamación ante el CTBG | Potestativa y previa a lo contencioso; plazo **1 mes** | Art. 24 |
 | Consejo de Transparencia y Buen Gobierno | Organismo **independiente**; resuelve la reclamación | Arts. 33-34 |
 | Ordenanza de Transparencia de Madrid | Aprobada por el **Pleno el 27 de julio de 2016** (BOAM 17/08/2016) | Ord. Madrid |
-| Registro de lobbies (Madrid) | La Ordenanza crea un **Registro de grupos de interés** (pionero en el ámbito local) | Ord. Madrid |
+| Registro de lobbies (Madrid) | **Registro de grupos de interés** (pionero local), **obligatorio** y **público**; los cargos solo se reúnen con grupos inscritos | Ord. Madrid |
 
 ### Las tres normas del tema de un vistazo
 

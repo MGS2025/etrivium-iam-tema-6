@@ -1,7 +1,7 @@
 # Tema 6 — Checklist de Validación
 
 > **Título oficial**: Ley 39/2015 (LPACAP): derechos, interesados y registros. Ley 19/2013 (LTBG): derecho de acceso a la información pública.
-> **Versión**: 1.0 — Generación inicial
+> **Versión**: 1.1 — Correcciones de María (art. 53, art. 17 y registro de lobbies)
 > **Fecha**: 2026-06-25
 > **Revisoras**: María + Ana (IAM) · **Datos volátiles**: Jesús (eTrivium)
 
@@ -25,7 +25,7 @@
 ## 2. Estructura del contenido
 
 - [ ] El `tema-6-indice.md` refleja fielmente la estructura de `tema-6-contenido.md`.
-- [ ] Las secciones cubren: LPACAP (objeto y relación con la 40/2015), derechos (art. 13), ámbito digital, interesados (arts. 3-6), identificación y firma (arts. 9-12), registros (art. 16), relación electrónica (art. 14) y plazos (arts. 30-31); LTBG (objeto y principios), publicidad activa (arts. 5-11), derecho de acceso (arts. 12-24), límites e inadmisión, CTBG; y la Ordenanza de Madrid.
+- [ ] Las secciones cubren: LPACAP (objeto y relación con la 40/2015), derechos del art. 13, **derechos del interesado (art. 53)**, ámbito digital, interesados (arts. 3-6), identificación y firma (arts. 9-12), **registros (art. 16) y archivos / Archivo Electrónico Único (art. 17)**, relación electrónica (art. 14) y plazos (arts. 30-31); LTBG (objeto y principios), publicidad activa (arts. 5-11), derecho de acceso (arts. 12-24), límites e inadmisión, CTBG; y la Ordenanza de Madrid **con su Registro de grupos de interés (lobbies)**.
 - [ ] Los conceptos memorizables aparecen como `[DATO CLAVE EXAMEN]`.
 - [ ] Las reproducciones del articulado aparecen como `[CITA NORMATIVA]`.
 - [ ] Los ejemplos del Ayto de Madrid / IAM están marcados como `[EJEMPLO AYTO MADRID]`.
@@ -34,7 +34,9 @@
 ## 3. Rigor jurídico (datos sensibles)
 
 - [ ] LPACAP en vigor el **2 de octubre de 2016**; pareja de la **Ley 40/2015** [DF 7.ª].
-- [ ] Catálogo del **art. 13** correcto (a-i), distinguido de los derechos del **interesado** (art. 53).
+- [ ] Catálogo del **art. 13** correcto (a-i), distinguido de los derechos del **interesado** (art. 53), que ahora se desarrollan en su propia sección (§4).
+- [ ] **Archivo Electrónico Único** (art. 17): conserva documentos de procedimientos **finalizados**; distinto del registro de entrada/salida (art. 16).
+- [ ] **Registro de lobbies** de Madrid: **obligatorio**, **público**, vinculado a la publicación de agendas de los cargos.
 - [ ] Capacidad de obrar: personas físicas/jurídicas + **menores** (sin asistencia) + **entidades sin personalidad** cuando la ley lo declare [art. 3].
 - [ ] Representación: se **presume** para mero trámite; se **acredita** para solicitudes, recursos, desistimiento y renuncia [art. 5.3].
 - [ ] **Identificación ≠ firma**: identificar (art. 9) acredita quién; firmar (art. 10) manifiesta voluntad y solo se exige para ciertos actos.
@@ -55,9 +57,9 @@
 - [ ] **El CSS de cada SVG está aislado (`scope_svg`)**: ningún texto se sale de su caja (verificado por `getBBox` sobre el `index.html` real, los 12 SVG juntos).
 - [ ] Ningún diagrama depende de CDN, fuentes externas ni scripts.
 
-## 5. Banco de 150 preguntas
+## 5. Banco de 160 preguntas
 
-- [ ] Las 150 preguntas tienen 3 opciones y una única respuesta correcta verificable.
+- [ ] Las 160 preguntas tienen 3 opciones y una única respuesta correcta verificable.
 - [ ] La distribución A/B/C está equilibrada (~50/50/50) tras el balanceo automático del builder.
 - [ ] No hay preguntas ambiguas.
 - [ ] Cada respuesta cita su referencia normativa.
@@ -90,11 +92,19 @@
 
 ## Observaciones generales
 
+### Correcciones de María (IAM) aplicadas en v1.1
+
+1. **Nota de conexión en el art. 13**: se enlazan las letras d), g) y h) con los epígrafes donde se desarrollan (§§7, 9, 11-15) y con el nuevo §4 (art. 53), para no estudiarlas como bloques sueltos.
+2. **Nuevo §4 — Derechos del interesado en el procedimiento (art. 53)**: catálogo completo (art. 53.1) + derechos del presunto responsable en el sancionador (art. 53.2). Lo pide el enunciado oficial ("derechos... y Registros").
+3. **Nuevo §9 — Los archivos. El Archivo Electrónico Único (art. 17)**: completa el epígrafe "Registros" del enunciado, distinguiendo registro (art. 16) de archivo (art. 17). Relevante para el perfil TIC (preservación de expedientes electrónicos).
+4. **Desarrollo del Registro de grupos de interés (lobbies)** en §16.1: quién debe inscribirse, carácter obligatorio, información que se publica.
+5. **+10 preguntas de test** (151-160) sobre el contenido nuevo.
+
 ### Decisiones conscientes que conviene confirmar
 
 1. **Alcance del epígrafe LPACAP**: el enunciado oficial acota derechos (art. 13), interesados (arts. 3-12) y registros (arts. 16-17). Se han añadido, por conexión directa, la **obligación de relación electrónica** (art. 14) y el **cómputo de plazos** (arts. 30-31), imprescindibles para el registro. → Confirmar que el alcance es el deseado.
 2. **Profundidad de la LTBG**: aunque el enunciado acota el **derecho de acceso**, se desarrolla también la **publicidad activa** (arts. 5-11) y el **CTBG** por ser inseparables. → Confirmar.
-3. **150 preguntas + 6 casos + 12 diagramas + 8 pestañas (con pestaña Índice)**, en paridad con el Tema 5.
+3. **160 preguntas + 6 casos + 12 diagramas + 8 pestañas (con pestaña Índice)**, en paridad con el Tema 5 (150 originales + 10 de la ampliación v1.1).
 4. **Balanceo automático A/B/C** mediante permutación determinista en `build_t6.py`.
 5. **Diagramas con CSS aislado** (`scope_svg`) desde el origen, incorporando el fix descubierto en el Tema 5.
 

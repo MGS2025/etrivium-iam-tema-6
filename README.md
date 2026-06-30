@@ -8,9 +8,9 @@ Material de estudio para la oposición **C1 — Técnico Auxiliar TIC del Ayunta
 
 - **`index.html`** — web autosuficiente (offline) con 8 pestañas: Inicio, Índice, Contenido, Diagramas, Test, Casos, Validación y Fuentes. Motor de test con corrección automática y penalización 1/3.
 - **`tema-6-indice.md`** — índice y datos clave.
-- **`tema-6-contenido.md`** — contenido teórico (15 secciones).
+- **`tema-6-contenido.md`** — contenido teórico (17 secciones).
 - **`tema-6-diagramas.md`** — 12 diagramas SVG (CSS aislado, sin desbordes).
-- **`tema-6-test.md`** — 150 preguntas tipo examen.
+- **`tema-6-test.md`** — 160 preguntas tipo examen.
 - **`tema-6-caso-practico.md`** — 6 casos prácticos (IAM).
 - **`tema-6-fuentes.md`** — registro normativo y datos volátiles a confirmar.
 - **`tema-6-validacion.md`** — checklist de validación (María / Ana).
@@ -19,11 +19,13 @@ Material de estudio para la oposición **C1 — Técnico Auxiliar TIC del Ayunta
 
 ## Estado
 
+**v1.1 — Correcciones de María (IAM).** Añadidos el art. 53 (derechos del interesado), el art. 17 (Archivo Electrónico Único) y el desarrollo del Registro de lobbies.
+
 **v1.0 — Generación inicial.** Pendiente de validación por María / Ana (IAM) y de confirmación de datos volátiles por Jesús (eTrivium): vigencia de la Ordenanza de Madrid, órgano de reclamación municipal y umbrales económicos de publicidad activa.
 
 ## QA aplicado
 
-- 150 preguntas con 3 opciones únicas y respuesta válida; distribución A/B/C equilibrada (51/51/48).
+- 160 preguntas con 3 opciones únicas y respuesta válida; distribución A/B/C equilibrada.
 - 12 diagramas SVG con CSS aislado (`scope_svg`); **0 textos fuera de caja** (verificado por `getBBox` sobre el render real).
 - Ortografía es_ES (hunspell) sin typos reales.
 - Referencias cruzadas verificadas contra el temario oficial BOAM 10.032.

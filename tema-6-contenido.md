@@ -4,7 +4,7 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Generación inicial
+> **Versión**: 1.1 — Correcciones de María (art. 53, art. 17 y registro de lobbies)
 > **Fecha**: 2026-06-25
 > **Fuentes**: Ver `tema-6-fuentes.md` · **Diagramas**: Ver `tema-6-diagramas.md` · **Cambios**: Ver `tema-6-changelog.md`
 
@@ -75,11 +75,44 @@ El **artículo 13 de la LPACAP** recoge el catálogo de **derechos de las person
 
 > **[DATO CLAVE EXAMEN]** El derecho de la letra d) del art. 13 (**acceso a la información pública, archivos y registros**) **remite expresamente a la Ley 19/2013**. Por eso este tema une la LPACAP con la transparencia: el art. 13 LPACAP es la puerta y la LTBG el desarrollo. [LPACAP, art. 13.d]
 
-> **[REFERENCIA CRUZADA]** No confundir el art. 13 (derechos de **todas** las personas) con el **art. 53** (derechos del **interesado** *en* un procedimiento ya iniciado: a conocer el estado, a no presentar documentos ya en poder de la Administración, a alegar, a no declarar como culpable en el sancionador, etc.).
+> **[REFERENCIA CRUZADA]** Varias letras del art. 13 **no se agotan aquí**, sino que se desarrollan en otros epígrafes de este mismo tema; conviene estudiarlas enlazadas y no como bloques sueltos:
+> - La **letra d)** (acceso a la información pública, archivos y registros) → se desarrolla en la **Ley 19/2013** (§§11-15) y, en cuanto a archivos, en el **art. 17 LPACAP** (§9).
+> - La **letra g)** (identificación y firma electrónica del art. 9) → se desarrolla en el **§7** (identificación ≠ firma).
+> - La **letra h)** (protección de datos) → opera como **límite** del derecho de acceso (art. 15 LTBG, §14).
+> - Los **derechos del interesado** una vez iniciado el procedimiento → **art. 53** (§4, a continuación).
+
+> **[DATO CLAVE EXAMEN]** Distingue dos planos de derechos: el **art. 13** reconoce derechos a **todas las personas** en sus relaciones con las AAPP (con o sin procedimiento abierto); el **art. 53** reconoce derechos al **interesado** *dentro de un procedimiento ya iniciado*. Es una de las distinciones más preguntadas del tema. [LPACAP, arts. 13 y 53]
 
 ---
 
-## 4. Derechos en el ámbito digital y administración electrónica
+## 4. Derechos del interesado en el procedimiento (art. 53)
+
+Mientras el art. 13 enumera los derechos de **cualquier persona**, el **art. 53 LPACAP** concreta los derechos del **interesado** una vez que el **procedimiento ya está en marcha**. El enunciado oficial del tema ("derechos de los ciudadanos en sus relaciones con las Administraciones Públicas **y Registros**") abarca ambos planos.
+
+> **[CITA NORMATIVA]** *"Además del resto de derechos previstos en esta Ley, los interesados en un procedimiento administrativo tienen los siguientes derechos"* [LPACAP, art. 53.1].
+
+**Catálogo del art. 53.1** (derechos del interesado):
+
+- a) A **conocer, en cualquier momento, el estado de tramitación** del procedimiento, el **sentido del silencio**, el órgano competente, los actos de trámite dictados, y a **acceder y obtener copia** de los documentos del expediente. Quien esté obligado a relacionarse electrónicamente accede a esta información en su **Punto de Acceso General** o sede electrónica.
+- b) A **identificar a las autoridades y al personal** bajo cuya responsabilidad se tramita el procedimiento.
+- c) A **no presentar documentos originales**, salvo excepción legal, con derecho a obtener una copia autenticada.
+- d) A **no presentar datos y documentos** no exigidos por las normas, los que ya estén en poder de las AAPP o los elaborados por estas (la Administración los **recaba electrónicamente**, salvo oposición del interesado).
+- e) A **utilizar las lenguas oficiales**.
+- f) A **formular alegaciones**, utilizar los medios de defensa admitidos y **aportar documentos** en cualquier fase anterior al trámite de audiencia.
+- g) A **obtener información y orientación** sobre los requisitos jurídicos o técnicos de sus actuaciones.
+- h) A **actuar asistido de asesor** cuando lo considere conveniente.
+- i) A **cumplir las obligaciones de pago** a través de los medios electrónicos previstos en el art. 98.2.
+- j) **Cualesquiera otros** que les reconozcan la Constitución y las leyes.
+
+> **[DATO CLAVE EXAMEN]** En el **procedimiento sancionador**, el presunto responsable tiene además los derechos del **art. 53.2**: a ser **notificado de los hechos imputados**, de las infracciones y sanciones que pudieran corresponder, de la identidad del **instructor** y de la **autoridad competente**, y a la **presunción de no responsabilidad** mientras no se demuestre lo contrario. [LPACAP, art. 53.2]
+
+> **[EJEMPLO AYTO MADRID]** Cuando una persona consulta en la **Carpeta Ciudadana** del Ayuntamiento de Madrid el estado de su expediente de licencia o de una multa, está ejerciendo el derecho del **art. 53.1.a)**. El IAM da soporte a la aplicación que expone ese estado de tramitación. [LPACAP, art. 53.1.a]
+
+> **[REFERENCIA CRUZADA]** El derecho del art. 53.1.d) (no aportar documentos ya en poder de la Administración) se apoya en el **art. 28 LPACAP** y conecta con la **interoperabilidad** de los registros (§8). El procedimiento donde se ejercen estos derechos se estudia en el **Tema 7** (fases del procedimiento).
+
+---
+
+## 5. Derechos en el ámbito digital y administración electrónica
 
 La LPACAP nace como una ley **electrónica por defecto**: la tramitación en soporte papel es la excepción. Varios derechos del art. 13 tienen una dimensión digital reforzada:
 
@@ -94,21 +127,21 @@ La LPACAP nace como una ley **electrónica por defecto**: la tramitación en sop
 
 ---
 
-## 5. Los interesados: concepto, capacidad de obrar y representación
+## 6. Los interesados: concepto, capacidad de obrar y representación
 
-### 5.1 Concepto de interesado (art. 4)
+### 6.1 Concepto de interesado (art. 4)
 
 > **[CITA NORMATIVA]** Se consideran interesados: *(a)* quienes lo promuevan como titulares de **derechos o intereses legítimos individuales o colectivos**; *(b)* los que, **sin haber iniciado** el procedimiento, tengan derechos que puedan resultar afectados por la decisión; *(c)* aquellos cuyos **intereses legítimos**, individuales o colectivos, puedan resultar afectados y se personen antes de la resolución [LPACAP, art. 4.1].
 
 Las **asociaciones y organizaciones** representativas de intereses económicos y sociales son titulares de intereses legítimos colectivos en los términos que la ley reconozca [LPACAP, art. 4.2].
 
-### 5.2 Capacidad de obrar (art. 3)
+### 6.2 Capacidad de obrar (art. 3)
 
 > **[CITA NORMATIVA]** Tienen capacidad de obrar ante las Administraciones: *(a)* las **personas físicas o jurídicas** con capacidad conforme a las normas civiles; *(b)* los **menores de edad** para el ejercicio y defensa de los derechos e intereses cuya actuación les permita el ordenamiento **sin la asistencia** de quien ejerza la patria potestad o tutela (salvo incapacitados); *(c)* los **grupos de afectados, uniones y entidades sin personalidad jurídica** y los patrimonios independientes, cuando la ley así lo declare [LPACAP, art. 3].
 
 > **[DATO CLAVE EXAMEN]** Novedad respecto a la Ley 30/1992: se reconoce expresamente la capacidad de obrar de los **menores** para los derechos que pueden ejercer sin asistencia, y la de **entidades sin personalidad jurídica** cuando una ley lo prevea. [LPACAP, art. 3]
 
-### 5.3 Representación (arts. 5-6)
+### 6.3 Representación (arts. 5-6)
 
 Los interesados pueden actuar **por medio de representante**. Se presume la representación para los **actos y gestiones de mero trámite**; para **formular solicitudes, presentar declaraciones responsables, interponer recursos, desistir y renunciar** debe **acreditarse** la representación [LPACAP, art. 5.3].
 
@@ -118,7 +151,7 @@ La representación puede acreditarse por **cualquier medio válido en Derecho** 
 
 ---
 
-## 6. Identificación y firma electrónica de los interesados (arts. 9-12)
+## 7. Identificación y firma electrónica de los interesados (arts. 9-12)
 
 La LPACAP **distingue** dos funciones que no deben confundirse:
 
@@ -138,7 +171,7 @@ La LPACAP **distingue** dos funciones que no deben confundirse:
 
 ---
 
-## 7. Los registros administrativos. El Registro Electrónico General (art. 16)
+## 8. Los registros administrativos. El Registro Electrónico General (art. 16)
 
 > **[CITA NORMATIVA]** *"Cada Administración dispondrá de un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo. También se podrán anotar en el mismo la salida de los documentos oficiales dirigidos a otros órganos o particulares"* [LPACAP, art. 16.1].
 
@@ -156,9 +189,30 @@ Características del registro:
 
 ---
 
-## 8. Obligación de relacionarse electrónicamente y cómputo de plazos
+## 9. Los archivos administrativos. El Archivo Electrónico Único (art. 17)
 
-### 8.1 Sujetos obligados a relacionarse electrónicamente (art. 14)
+El enunciado oficial del tema habla de "**Registros**" en plural: junto al **registro** de entrada y salida (art. 16) hay que distinguir el **archivo**, regulado en el **art. 17 LPACAP**. No son lo mismo: el **registro** controla *qué entra y sale* (asiento, fecha y hora); el **archivo** se ocupa de *conservar* los documentos y expedientes a lo largo del tiempo.
+
+> **[CITA NORMATIVA]** *"Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable"* [LPACAP, art. 17.1].
+
+Características del **Archivo Electrónico Único** (art. 17):
+
+- Conserva los documentos de **procedimientos finalizados** (el registro, en cambio, opera durante la tramitación).
+- Los documentos se almacenan en un **formato que garantice la autenticidad, integridad y conservación**, así como su **consulta con independencia del tiempo transcurrido** [art. 17.2].
+- Se asegura la **identificación de los usuarios y el control de accesos**, y el cumplimiento de las garantías de **protección de datos** personales [art. 17.3].
+- Permite el **traslado** de los documentos a otros formatos o soportes cuando sea necesario para preservar su conservación.
+
+> **[DATO CLAVE EXAMEN]** Diferencia que se pregunta: **art. 16 = registro** (entrada/salida de documentos, asiento con fecha y hora); **art. 17 = archivo electrónico único** (conservación de los documentos de procedimientos **finalizados**, garantizando autenticidad, integridad y consulta en el tiempo). [LPACAP, arts. 16-17]
+
+> **[EJEMPLO AYTO MADRID]** El **IAM** da soporte técnico al sistema de **gestión documental y archivo electrónico** del Ayuntamiento de Madrid: es la infraestructura donde se **preservan** los expedientes electrónicos una vez cerrados, con sus metadatos y firmas, para su consulta posterior. Conecta con el Esquema Nacional de Interoperabilidad (ENI) y sus normas técnicas. [LPACAP, art. 17]
+
+> **[REFERENCIA CRUZADA]** El desarrollo reglamentario del archivo electrónico (formatos, metadatos, política de gestión documental) se contiene en el **RD 203/2021** y en las Normas Técnicas de Interoperabilidad del ENI, citados como remisión. La firma y conservación a largo plazo conectan con el **Tema 32** (firma digital).
+
+---
+
+## 10. Obligación de relacionarse electrónicamente y cómputo de plazos
+
+### 10.1 Sujetos obligados a relacionarse electrónicamente (art. 14)
 
 > **[CITA NORMATIVA]** Las personas **físicas** podrán elegir si se comunican o no por medios electrónicos, salvo obligación legal; en todo caso, estarán **obligados** a relacionarse electrónicamente con las AAPP [LPACAP, art. 14.2]:
 
@@ -172,7 +226,7 @@ Características del registro:
 
 > **[REFERENCIA CRUZADA]** Un **Técnico Auxiliar TIC del IAM**, como **empleado público**, está obligado a relacionarse electrónicamente con su Administración para los trámites de su condición (art. 14.2.e). [Tema 5 — empleado público]
 
-### 8.2 Cómputo de plazos (arts. 30-31)
+### 10.2 Cómputo de plazos (arts. 30-31)
 
 | Regla | Contenido | Artículo |
 |---|---|---|
@@ -189,7 +243,7 @@ El **Registro Electrónico** rige el cómputo: un documento presentado un día i
 
 ---
 
-## 9. La Ley 19/2013 (LTBG): objeto, ámbito subjetivo y principios
+## 11. La Ley 19/2013 (LTBG): objeto, ámbito subjetivo y principios
 
 La **Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (LTBG)** descansa sobre **tres pilares**:
 
@@ -207,7 +261,7 @@ La **Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información 
 
 ---
 
-## 10. La publicidad activa (arts. 5-11 LTBG)
+## 12. La publicidad activa (arts. 5-11 LTBG)
 
 La **publicidad activa** obliga a los sujetos a publicar, de forma **periódica y actualizada**, la información cuyo conocimiento sea relevante para garantizar la transparencia. La información se publica en las **sedes electrónicas o portales de transparencia** de forma clara, estructurada, comprensible y **reutilizable** [LTBG, art. 5].
 
@@ -225,7 +279,7 @@ La **publicidad activa** obliga a los sujetos a publicar, de forma **periódica 
 
 ---
 
-## 11. El derecho de acceso a la información pública (arts. 12-24 LTBG)
+## 13. El derecho de acceso a la información pública (arts. 12-24 LTBG)
 
 > **[CITA NORMATIVA]** *"Todas las personas tienen derecho a acceder a la información pública"*, entendida como *"los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos incluidos en el ámbito de aplicación de esta ley y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones"* [LTBG, arts. 12-13].
 
@@ -235,19 +289,19 @@ La **publicidad activa** obliga a los sujetos a publicar, de forma **periódica 
 
 ---
 
-## 12. Límites, causas de inadmisión y procedimiento de acceso
+## 14. Límites, causas de inadmisión y procedimiento de acceso
 
-### 12.1 Límites al derecho de acceso (art. 14)
+### 14.1 Límites al derecho de acceso (art. 14)
 
 El acceso podrá **limitarse** cuando suponga un perjuicio para, entre otros: la seguridad nacional, la defensa, las relaciones exteriores, la seguridad pública, la prevención e investigación de delitos, la igualdad de las partes en los procesos judiciales, las funciones de vigilancia e inspección, los intereses económicos y comerciales, la política económica y monetaria, el secreto profesional, la confidencialidad en la toma de decisiones y la protección del medio ambiente [LTBG, art. 14.1]. La aplicación de los límites será **justificada y proporcionada**.
 
 **Protección de datos personales** (art. 15): regla especial. Si la información contiene **datos especialmente protegidos**, se requiere consentimiento o amparo legal; si son datos meramente identificativos relacionados con la organización, con carácter general se concede el acceso, salvo prevalencia de la protección de datos tras ponderación.
 
-### 12.2 Causas de inadmisión (art. 18)
+### 14.2 Causas de inadmisión (art. 18)
 
 Se **inadmitirán** las solicitudes: *(a)* referidas a información **en curso de elaboración** o de publicación general; *(b)* de carácter **auxiliar o de apoyo** (notas, borradores, opiniones, resúmenes, comunicaciones internas); *(c)* que requieran una **reelaboración** (no una mera labor de agregación); *(d)* dirigidas a un órgano que **no posee** la información y desconoce el competente; *(e)* **manifiestamente repetitivas** o **abusivas** no justificadas con la transparencia [LTBG, art. 18].
 
-### 12.3 Procedimiento (arts. 17, 19-22)
+### 14.3 Procedimiento (arts. 19-22)
 
 | Fase | Regla | Artículo |
 |---|---|---|
@@ -261,7 +315,7 @@ Se **inadmitirán** las solicitudes: *(a)* referidas a información **en curso d
 
 ---
 
-## 13. El Consejo de Transparencia y Buen Gobierno. Reclamación (arts. 23-24, 33-40)
+## 15. El Consejo de Transparencia y Buen Gobierno. Reclamación (arts. 23-24, 33-40)
 
 El **Consejo de Transparencia y Buen Gobierno (CTBG)** es un **organismo público independiente** cuya finalidad es promover la transparencia, velar por el cumplimiento de las obligaciones de publicidad y **resolver las reclamaciones** frente a las resoluciones de acceso [LTBG, arts. 33-34].
 
@@ -279,7 +333,7 @@ El **Consejo de Transparencia y Buen Gobierno (CTBG)** es un **organismo públic
 
 ---
 
-## 14. La Ordenanza de Transparencia de la Ciudad de Madrid (2016)
+## 16. La Ordenanza de Transparencia de la Ciudad de Madrid (2016)
 
 El Ayuntamiento de Madrid aprobó su propia **Ordenanza de Transparencia** por **Acuerdo del Pleno de 27 de julio de 2016** (BOAM nº 7724, de 17 de agosto de 2016), que desarrolla y **refuerza** la LTBG en el ámbito municipal [ORD-MAD].
 
@@ -297,20 +351,33 @@ El Ayuntamiento de Madrid aprobó su propia **Ordenanza de Transparencia** por *
 - Refuerza la **reutilización** de la información pública (open data) sin necesidad de autorización previa y de forma gratuita, con formatos abiertos.
 - Regula su propio sistema de **garantías y reclamaciones** en el ámbito municipal.
 
+### 16.1 El Registro de grupos de interés (lobbies)
+
+Es la especialidad más característica de la Ordenanza y la más probable como pregunta de examen para una plaza del IAM (que da soporte técnico al registro).
+
+- **Quién debe inscribirse**: las **personas físicas, jurídicas y entidades sin personalidad** que realicen **actividades de influencia** —en defensa de intereses propios o de terceros— ante el Ayuntamiento de Madrid, sus organismos y entes, en la **elaboración de normas** o en el **diseño y aplicación de políticas públicas**. Quedan fuera las relaciones ordinarias de un ciudadano que tramita un asunto propio.
+- **¿Obligatorio o voluntario?**: la inscripción es **obligatoria** para poder desarrollar esas actividades de influencia. En la práctica se refuerza porque los **cargos y directivos municipales solo pueden mantener reuniones** sobre esas materias con grupos **inscritos**: quien no está en el registro no puede ejercer el lobby.
+- **Qué información se publica**: el registro es **público y electrónico**, e incluye los **datos identificativos** del grupo de interés, la **persona o intereses que representa**, el **ámbito o sector** de actividad y la **información sobre las reuniones y contactos** mantenidos con los responsables públicos (se vincula con la **publicación de las agendas** de los cargos).
+- **Finalidad**: que sea posible saber **quién influye, sobre qué y ante quién** en las decisiones municipales (huella normativa).
+
+> **[DATO CLAVE EXAMEN]** El **Registro de grupos de interés** de Madrid es **obligatorio** para quien quiera realizar actividades de influencia; es **público**; y se conecta con la **publicación de las agendas** de los cargos (los responsables públicos solo se reúnen sobre esas materias con grupos inscritos). [ORD-MAD]
+
 > **[DATO CLAVE EXAMEN]** La **Ordenanza de Transparencia de Madrid (27-jul-2016)** destaca por crear el **Registro de grupos de interés (lobbies)** y por **ampliar la publicidad activa** sobre el mínimo estatal. Es norma **vigente** y directamente aplicable al Ayuntamiento de Madrid y al IAM. [ORD-MAD]
 
 > **[EJEMPLO AYTO MADRID]** El **IAM** soporta técnicamente el Portal de Transparencia (transparencia.madrid.es) y el portal de **datos abiertos** del Ayuntamiento, materializando las obligaciones de publicidad activa y reutilización de la Ordenanza. [ORD-MAD]
 
 ---
 
-## 15. Esquema resumen y conexiones entre normas
+## 17. Esquema resumen y conexiones entre normas
 
 **Mapa mental del tema**:
 
 - **Ley 39/2015 (LPACAP)** → relación ciudadano-Administración:
-  - **Derechos** (art. 13) — incluye el acceso a la información (letra d → remite a la LTBG).
+  - **Derechos de todas las personas** (art. 13) — incluye el acceso a la información (letra d → remite a la LTBG).
+  - **Derechos del interesado** en el procedimiento (art. 53) — estado de tramitación, no aportar documentos, alegar; en el sancionador, presunción de no responsabilidad.
   - **Interesados** (arts. 3-12) — capacidad de obrar, representación, identificación y firma.
   - **Registros** (art. 16) — Registro Electrónico General, único e interoperable.
+  - **Archivos** (art. 17) — Archivo Electrónico Único, conserva los documentos de procedimientos finalizados.
   - **Plazos** (arts. 30-31) — sábados inhábiles, de fecha a fecha.
 - **Ley 40/2015 (LRJSP)** → organización interna (pareja de la 39/2015).
 - **Ley 19/2013 (LTBG)** → transparencia:
