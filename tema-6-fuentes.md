@@ -33,11 +33,11 @@ El Tema 6 trabaja con un **corpus normativo cerrado de tres normas estatales + u
 
 ### Esquema de referencia para el contenido
 
-- **LPACAP**: `[LPACAP, art. X]` o `[LPACAP, art. X.Y]` — p. ej. `[LPACAP, art. 13]`
-- **LRJSP**: `[LRJSP, art. X]`
-- **LTBG**: `[LTBG, art. X]` — p. ej. `[LTBG, art. 20.1]`
+- **LPACAP**: `(art. X LPACAP)` o `(art. X.Y LPACAP)` — p. ej. `(art. 13 LPACAP)`
+- **LRJSP**: `(art. X LRJSP)`
+- **LTBG**: `(art. X LTBG)` — p. ej. `(art. 20.1 LTBG)`
 - **Ordenanza de Madrid**: `[ORD-MAD, art. X]`
-- **Constitución**: `[CE, art. 105.b]`
+- **Constitución**: `(art. 105.b CE)`
 
 ---
 
@@ -51,7 +51,7 @@ El Tema 6 trabaja con un **corpus normativo cerrado de tres normas estatales + u
 
 ## Normas de citación en el contenido
 
-1. Toda afirmación que reproduzca el articulado va acompañada de su referencia: `[LPACAP, art. X]`, `[LTBG, art. X]` u `[ORD-MAD, art. X]`.
+1. Toda afirmación que reproduzca el articulado va acompañada de su referencia: `(art. X LPACAP)`, `(art. X LTBG)` u `[ORD-MAD, art. X]`.
 2. Los datos de memorización (plazos, órganos competentes, cifras, sujetos obligados) se marcan con la caja **Dato clave**.
 3. Las reproducciones literales o paráfrasis cercanas del articulado se marcan con la caja **Cita normativa**.
 4. La aplicación al Ayuntamiento de Madrid (IAM) se marca con la caja **Ejemplo de aplicación en el Ayto**.

@@ -19,7 +19,7 @@
 
 - [ ] Las fuentes nucleares son la **LPACAP (Ley 39/2015)** y la **LTBG (Ley 19/2013)** en versión consolidada, más la **Ordenanza de Transparencia de Madrid (2016)**.
 - [ ] El contenido se ha elaborado a partir del **texto oficial** de las normas (BOE y BOAM/BOCM, versión consolidada).
-- [ ] Cada afirmación que reproduce el articulado está referenciada con `[LPACAP, art. X]`, `[LTBG, art. X]` u `[ORD-MAD, art. X]`.
+- [ ] Cada afirmación que reproduce el articulado está referenciada con `(art. X LPACAP)`, `(art. X LTBG)` u `[ORD-MAD, art. X]`.
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo concreto.
 
 ## 2. Estructura del contenido
@@ -33,20 +33,20 @@
 
 ## 3. Rigor jurídico (datos sensibles)
 
-- [ ] LPACAP en vigor el **2 de octubre de 2016** (registros, apoderamientos, punto de acceso general y archivo único: efectos desde el **2 de abril de 2021**); pareja de la **Ley 40/2015** [DF 7.ª].
+- [ ] LPACAP en vigor el **2 de octubre de 2016** (registros, apoderamientos, punto de acceso general y archivo único: efectos desde el **2 de abril de 2021**); pareja de la **Ley 40/2015** (DF 7.ª).
 - [ ] Catálogo del **art. 13** correcto (a-i), distinguido de los derechos del **interesado** (art. 53.1, a-i, y art. 53.2), que se desarrollan en su propia sección (§4).
 - [ ] **Archivo Electrónico Único** (art. 17): conserva documentos de procedimientos **finalizados**; distinto del registro de entrada/salida (art. 16).
 - [ ] **Registro de lobbies** de Madrid: **gratuito y público** (art. 35), inscripción **previa y obligatoria** para mantener reuniones (art. 38.1), reuniones publicadas en las agendas (art. 36.2).
-- [ ] Capacidad de obrar: personas físicas/jurídicas + **menores** (sin asistencia) + **entidades sin personalidad** cuando la ley lo declare [art. 3].
-- [ ] Representación: se **presume** para mero trámite; se **acredita** para solicitudes, recursos, desistimiento y renuncia [art. 5.3].
+- [ ] Capacidad de obrar: personas físicas/jurídicas + **menores** (sin asistencia) + **entidades sin personalidad** cuando la ley lo declare (art. 3).
+- [ ] Representación: se **presume** para mero trámite; se **acredita** para solicitudes, recursos, desistimiento y renuncia (art. 5.3).
 - [ ] **Identificación ≠ firma**: con carácter general basta acreditar la identidad (art. 11.1); la firma solo es obligatoria para los actos del art. 11.2.
-- [ ] **Registro Electrónico General**: uno por Administración, interoperable [art. 16]; presentación todos los días del año durante las 24 horas [art. 31.2.a].
-- [ ] **Cinco** sujetos obligados a relación electrónica [art. 14.2].
-- [ ] Cómputo de plazos: **sábados excluidos** del cómputo por días; inicio al día siguiente; meses y años hasta el mismo día del mes o año de vencimiento [arts. 30-31].
+- [ ] **Registro Electrónico General**: uno por Administración, interoperable (art. 16); presentación todos los días del año durante las 24 horas (art. 31.2.a).
+- [ ] **Cinco** sujetos obligados a relación electrónica (art. 14.2).
+- [ ] Cómputo de plazos: **sábados excluidos** del cómputo por días; inicio al día siguiente; meses y años hasta el mismo día del mes o año de vencimiento (arts. 30-31).
 - [ ] LTBG = **publicidad activa + acceso + buen gobierno**.
-- [ ] Derecho de acceso: **todas las personas**, sin obligación de motivar; resolución **1 mes** (ampliable por otro mes); silencio **desestimatorio**; terceros **15 días** [arts. 12-20].
-- [ ] Límites **justificados y proporcionados** [art. 14.2]; causas de **inadmisión** tasadas [art. 18].
-- [ ] **Reclamación ante el CTBG**: potestativa y previa; **1 mes** para interponer; plazo para resolver **3 meses** (silencio desestimatorio) [art. 24]; órganos autonómicos [art. 24.6 y DA 4.ª].
+- [ ] Derecho de acceso: **todas las personas**, sin obligación de motivar; resolución **1 mes** (ampliable por otro mes); silencio **desestimatorio**; terceros **15 días** (arts. 12-20).
+- [ ] Límites **justificados y proporcionados** (art. 14.2); causas de **inadmisión** tasadas (art. 18).
+- [ ] **Reclamación ante el CTBG**: potestativa y previa; **1 mes** para interponer; plazo para resolver **3 meses** (silencio desestimatorio) (art. 24); órganos autonómicos (art. 24.6 y DA 4.ª).
 - [ ] Ordenanza de Madrid: **Acuerdo del Pleno de 27-jul-2016** (BOAM nº 7724 y BOCM nº 196, de 17/08/2016); principios del art. 4; **Registro de lobbies** (arts. 34-39); reutilización (arts. 27-33); recursos y reclamaciones (art. 26).
 
 ## 4. Diagramas SVG
