@@ -4,6 +4,16 @@
 
 ---
 
+## v1.4 — 2026-10-06 — Revisión de diagramas
+
+**Motivo**: barrido de los diagramas de los 40 temas tras la revisión jurídica y de normas.
+
+### Cambios
+
+- Revisión visual de todos los diagramas, captura a captura (la medición automática no detecta contraste, flechas mal dirigidas ni textos pegados al borde): corregidos textos que se salían de su caja o del lienzo, cajas que se tocaban, flechas que no llegaban a su destino y textos con poco contraste. Sin cambios de contenido.
+
+---
+
 ## v1.3 — 2026-10-01 — Revisión jurídica
 
 **Estado**: revisión jurídica aplicada. Texto contrastado con las versiones consolidadas del BOE (LPACAP, LRJSP, LTBG) y con la Ordenanza de Transparencia de la Ciudad de Madrid (BOCM nº 196 de 17/08/2016; sin modificaciones según la edición del BOE de 24/06/2026).

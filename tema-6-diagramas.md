@@ -34,7 +34,7 @@
 **Propósito**: Situar la Ley 39/2015 frente a la Ley 40/2015 y deslindar qué regula cada una.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="En 2015 la Ley 30/1992 se desdobló en la Ley 39/2015 del procedimiento administrativo común, que regula la relación con el ciudadano, y la Ley 40/2015 de régimen jurídico del sector público, que regula la organización interna">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="En 2015 la Ley 30/1992 se desdobló en la Ley 39/2015 del procedimiento administrativo común, que regula la relación con el ciudadano, y la Ley 40/2015 de régimen jurídico del sector público, que regula la organización interna">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -55,16 +55,16 @@
   <text x="540" y="126" class="h">LEY 40/2015 · LRJSP</text>
   <text x="540" y="146" class="h" style="font-weight:400;font-size:11px">Régimen Jurídico del Sector Público</text>
   <text x="540" y="172" class="h" style="font-weight:400;font-size:11px;fill:#bcd6f0">Organización interna (ad intra)</text>
-  <rect x="40" y="210" width="280" height="86" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <rect x="40" y="210" width="280" height="98" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="180" y="234" class="t" style="font-weight:700">En este tema</text>
   <text x="180" y="256" class="s">Derechos (art. 13) · Interesados</text>
   <text x="180" y="274" class="s">(arts. 3-12) · Registros (art. 16)</text>
-  <text x="180" y="290" class="s">Plazos (arts. 30-31)</text>
-  <rect x="400" y="210" width="280" height="86" rx="8" fill="#f3f5f7" stroke="#7a8694"/>
+  <text x="180" y="292" class="s">Plazos (arts. 30-31)</text>
+  <rect x="400" y="210" width="280" height="98" rx="8" fill="#f3f5f7" stroke="#7a8694"/>
   <text x="540" y="234" class="t" style="font-weight:700">En este tema</text>
   <text x="540" y="256" class="s">Solo su relación con la 39/2015</text>
   <text x="540" y="274" class="s">Órganos, competencia, convenios,</text>
-  <text x="540" y="290" class="s">responsabilidad patrimonial</text>
+  <text x="540" y="292" class="s">responsabilidad patrimonial</text>
 </svg>
 ```
 
@@ -142,7 +142,7 @@
   <text x="600" y="116" class="t" style="font-weight:700">Sede y registro</text>
   <text x="600" y="134" class="t" style="font-weight:700">electrónicos</text>
   <text x="600" y="152" class="s">arts. 14 y 16</text>
-  <rect x="120" y="196" width="460" height="80" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <rect x="80" y="196" width="540" height="80" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="350" y="222" class="t" style="font-weight:700;fill:#b5740f">Regla de elección de canal (art. 14.1)</text>
   <text x="350" y="244" class="s">La persona FÍSICA elige si usa o no medios electrónicos</text>
   <text x="350" y="262" class="s">y puede cambiar de medio en cualquier momento — salvo que esté obligada (art. 14.2)</text>
@@ -350,19 +350,19 @@
   <line x1="130" y1="78" x2="130" y2="94" stroke="#0055a0"/>
   <line x1="350" y1="78" x2="350" y2="94" stroke="#0055a0"/>
   <line x1="570" y1="78" x2="570" y2="94" stroke="#0055a0"/>
-  <rect x="20" y="94" width="220" height="130" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <rect x="24" y="94" width="212" height="130" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="130" y="120" class="t" style="font-weight:700">1 · Publicidad activa</text>
   <text x="130" y="140" class="s" style="font-weight:700;fill:#0055a0">arts. 5-11</text>
   <text x="130" y="166" class="s">La Administración publica</text>
   <text x="130" y="184" class="s">información DE OFICIO,</text>
   <text x="130" y="202" class="s">sin que nadie la pida</text>
-  <rect x="240" y="94" width="220" height="130" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
+  <rect x="244" y="94" width="212" height="130" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="350" y="120" class="t" style="font-weight:700">2 · Derecho de acceso</text>
   <text x="350" y="140" class="s" style="font-weight:700;fill:#2d8659">arts. 12-24</text>
   <text x="350" y="166" class="s">El ciudadano SOLICITA</text>
   <text x="350" y="184" class="s">información pública;</text>
   <text x="350" y="202" class="s">resuelve la Administración</text>
-  <rect x="460" y="94" width="220" height="130" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <rect x="464" y="94" width="212" height="130" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="570" y="120" class="t" style="font-weight:700">3 · Buen gobierno</text>
   <text x="570" y="140" class="s" style="font-weight:700;fill:#0055a0">arts. 25-32</text>
   <text x="570" y="166" class="s">Principios éticos y</text>
@@ -453,11 +453,11 @@
   <text x="636" y="92" class="h">4 · ACCESO</text>
   <text x="636" y="114" class="h" style="font-weight:400;font-size:10px">Preferentemente</text>
   <text x="636" y="132" class="h" style="font-weight:400;font-size:10px">electrónico (art. 22)</text>
-  <rect x="240" y="196" width="240" height="84" rx="8" fill="#fdecea" stroke="#d13c3c"/>
+  <rect x="230" y="190" width="260" height="98" rx="8" fill="#fdecea" stroke="#d13c3c"/>
   <text x="360" y="222" class="t" style="font-weight:700;fill:#b32d2d">Silencio NEGATIVO</text>
   <text x="360" y="244" class="s">Si no resuelve en plazo, la solicitud</text>
   <text x="360" y="260" class="s">se entiende DESESTIMADA (art. 20.4)</text>
-  <text x="360" y="276" class="s">El solicitante no debe motivar la solicitud</text>
+  <text x="360" y="277" class="s">El solicitante no debe motivar la solicitud</text>
   <defs><marker id="a10" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#0055a0"/></marker></defs>
 </svg>
 ```
@@ -509,7 +509,7 @@
 **Propósito**: Visión integrada de las tres normas y la ordenanza municipal.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-label="Mapa resumen: la Ley 39/2015 regula derechos, interesados, registros y plazos; la Ley 40/2015 la organización interna; la Ley 19/2013 la transparencia con publicidad activa, derecho de acceso y buen gobierno; y la Ordenanza de Transparencia de Madrid de 2016 regula la transparencia municipal, la reutilización y el Registro de lobbies">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 370" role="img" aria-label="Mapa resumen: la Ley 39/2015 regula derechos, interesados, registros y plazos; la Ley 40/2015 la organización interna; la Ley 19/2013 la transparencia con publicidad activa, derecho de acceso y buen gobierno; y la Ordenanza de Transparencia de Madrid de 2016 regula la transparencia municipal, la reutilización y el Registro de lobbies">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:11.5px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -517,30 +517,30 @@
   </style>
   <rect x="250" y="14" width="220" height="42" rx="8" fill="#1a1a1a"/>
   <text x="360" y="40" class="h">TEMA 6 · NORMAS CLAVE</text>
-  <rect x="20" y="80" width="330" height="120" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <rect x="20" y="80" width="330" height="128" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="185" y="104" class="t" style="font-weight:700;fill:#0055a0">LEY 39/2015 · LPACAP</text>
   <text x="185" y="126" class="s">Derechos (art. 13) — incluye acceso (d)</text>
   <text x="185" y="144" class="s">Interesados (arts. 3-12): capacidad,</text>
   <text x="185" y="160" class="s">representación, identificación y firma</text>
   <text x="185" y="178" class="s">Registros (art. 16) · Plazos (arts. 30-31)</text>
   <text x="185" y="194" class="s">Sábados inhábiles · de fecha a fecha</text>
-  <rect x="370" y="80" width="330" height="120" rx="8" fill="#f3f5f7" stroke="#7a8694"/>
+  <rect x="370" y="80" width="330" height="128" rx="8" fill="#f3f5f7" stroke="#7a8694"/>
   <text x="535" y="104" class="t" style="font-weight:700;fill:#5a6675">LEY 40/2015 · LRJSP</text>
   <text x="535" y="130" class="s">Pareja de la 39/2015</text>
   <text x="535" y="150" class="s">Organización interna del sector público</text>
   <text x="535" y="170" class="s">(órganos, competencia, convenios,</text>
   <text x="535" y="186" class="s">responsabilidad patrimonial)</text>
-  <rect x="20" y="216" width="330" height="124" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="185" y="240" class="t" style="font-weight:700;fill:#2d8659">LEY 19/2013 · LTBG</text>
-  <text x="185" y="262" class="s">Publicidad activa (arts. 5-11): de oficio</text>
-  <text x="185" y="282" class="s">Derecho de acceso (arts. 12-24): 1 mes,</text>
-  <text x="185" y="298" class="s">silencio negativo, reclamación CTBG</text>
-  <text x="185" y="318" class="s">Buen gobierno (arts. 25-32): altos cargos</text>
-  <rect x="370" y="216" width="330" height="124" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="535" y="240" class="t" style="font-weight:700;fill:#b5740f">ORDENANZA DE MADRID (2016)</text>
-  <text x="535" y="262" class="s">Acuerdo del Pleno de 27-jul-2016</text>
-  <text x="535" y="282" class="s">Publicidad activa propia (arts. 8-17)</text>
-  <text x="535" y="298" class="s">Registro de lobbies (arts. 34-39)</text>
-  <text x="535" y="318" class="s">Reutilización gratuita (art. 27)</text>
+  <rect x="20" y="224" width="330" height="124" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
+  <text x="185" y="248" class="t" style="font-weight:700;fill:#2d8659">LEY 19/2013 · LTBG</text>
+  <text x="185" y="270" class="s">Publicidad activa (arts. 5-11): de oficio</text>
+  <text x="185" y="290" class="s">Derecho de acceso (arts. 12-24): 1 mes,</text>
+  <text x="185" y="306" class="s">silencio negativo, reclamación CTBG</text>
+  <text x="185" y="326" class="s">Buen gobierno (arts. 25-32): altos cargos</text>
+  <rect x="370" y="224" width="330" height="124" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <text x="535" y="248" class="t" style="font-weight:700;fill:#b5740f">ORDENANZA DE MADRID (2016)</text>
+  <text x="535" y="270" class="s">Acuerdo del Pleno de 27-jul-2016</text>
+  <text x="535" y="290" class="s">Publicidad activa propia (arts. 8-17)</text>
+  <text x="535" y="306" class="s">Registro de lobbies (arts. 34-39)</text>
+  <text x="535" y="326" class="s">Reutilización gratuita (art. 27)</text>
 </svg>
 ```
