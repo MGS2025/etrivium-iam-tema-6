@@ -4,6 +4,35 @@
 
 ---
 
+## v1.3 — 2026-10-01 — Revisión jurídica
+
+**Estado**: revisión jurídica aplicada. Texto contrastado con las versiones consolidadas del BOE (LPACAP, LRJSP, LTBG) y con la Ordenanza de Transparencia de la Ciudad de Madrid (BOCM nº 196 de 17/08/2016; sin modificaciones según la edición del BOE de 24/06/2026).
+
+### Cambios de la revisión
+
+- **§15**: se elimina del ejemplo del Ayuntamiento la frase sobre el órgano que resuelve la reclamación en Madrid («dato a verificar») y su referencia.
+- **Fuentes**: se elimina la nota sobre el origen del material y la tabla de material de partida; la fila del temario oficial (BOAM 10.032) pasa a las fuentes primarias.
+
+### Correcciones de contenido (contra el texto consolidado)
+
+- **Art. 53.1 LPACAP**: el catálogo tiene nueve letras (a-i); se elimina una letra inexistente («utilizar las lenguas oficiales») y se reordenan las demás. Art. 53.2 completado.
+- **Art. 9.2 LPACAP**: se sustituye «clave concertada» por la redacción vigente de la letra c) (tras el RDL 14/2019 y la Ley 11/2022). La exigencia de firma se cita en el **art. 11.2** (no en el art. 10), con «declaraciones responsables o comunicaciones».
+- **Art. 3 LPACAP**: la novedad de la exposición de motivos es la capacidad de obrar de grupos de afectados y entidades sin personalidad, no la de los menores.
+- **DF 7.ª LPACAP**: se añade que registros, apoderamientos, punto de acceso general y archivo único producen efectos desde el 2 de abril de 2021; derogación de la Ley 30/1992 y la Ley 11/2007 citada en la DD única.
+- Literalidad corregida en arts. 1.1, 4.1, 13, 16.1, 16.3, 16.4, 17, 30.1, 30.4 y 31.2 LPACAP, y arts. 1, 5.4, 9, 13, 14.1, 15, 17.3, 18.1, 23.1 y 24 LTBG.
+- **Art. 24.6 y DA 4.ª LTBG**: el convenio sirve para atribuir la reclamación al CTBG, no para crear un órgano autonómico.
+- **Ordenanza de Madrid**: principios del art. 4 tal como los enumera la norma; ámbito de los arts. 2 y 3; recursos y reclamaciones del art. 26; Registro de lobbies según los arts. 34-39.
+
+### Reglas generales
+
+- Títulos de las cajas: **Dato clave**, **Cita normativa**, **Ejemplo de aplicación en el Ayto** y **Relación con otros temas**; la leyenda ya no promete que algo aparezca en el examen.
+- Se eliminan las valoraciones fuera de las cajas y las promesas sobre el examen («de los más preguntados», «muy preguntada»…).
+- Citas de artículos: «artículo» completo cuando forma parte de la oración.
+- **Test**: las 160 preguntas se reescriben a partir del texto literal del precepto citado, con distractores que son variaciones leves; respuestas repartidas 54/53/53 entre a, b y c.
+- Casos prácticos, índice, diagramas (D2, D5, D6, D8, D9, D10, D11, D12) y validación ajustados a lo anterior.
+
+---
+
 ## v1.2 — 2026-09-06 — Ficha de extensión y tiempo de estudio
 
 **Estado**: sin cambios de contenido. Solo se añade información sobre el propio tema.

@@ -2,8 +2,8 @@
 
 > **Título oficial**: Ley 39/2015 (LPACAP): derechos, interesados y registros. Ley 19/2013 (LTBG): derecho de acceso a la información pública.
 >
-> **Versión**: 1.1 — Correcciones de María (art. 53, art. 17 y registro de lobbies)
-> **Fecha**: 2026-06-25
+> **Versión**: 1.3 — Revisión jurídica
+> **Fecha**: 2026-10-01
 > **Formato**: SVG inline (zero-dependencias, escalable, imprimible)
 > **Paleta**: Ayuntamiento de Madrid #0055a0 (primario) + #d13c3c (alertas) + #2d8659 (ventajas) + #e89822 (callouts)
 
@@ -76,7 +76,7 @@
 **Propósito**: Fijar el catálogo del art. 13 LPACAP, distinguiéndolo de los derechos del interesado (art. 53).
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-label="El artículo 13 de la Ley 39/2015 reconoce a todas las personas el derecho a comunicarse electrónicamente, a ser asistidas, a usar las lenguas oficiales, al acceso a la información pública según la Ley 19/2013, al trato con respeto, a exigir responsabilidades, a la identificación y firma electrónica y a la protección de datos">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-label="El artículo 13 de la Ley 39/2015 reconoce a todas las personas el derecho a comunicarse electrónicamente, a ser asistidas, a usar las lenguas oficiales, al acceso a la información pública según la Ley 19/2013, al trato con respeto, a exigir responsabilidades, a los medios de identificación y firma electrónica y a la protección de datos">
   <style>
     .h{font:700 14px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:start}
@@ -98,7 +98,7 @@
   <rect x="375" y="80" width="320" height="38" rx="6" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="389" y="104" class="t"><tspan class="b">f)</tspan> Exigir responsabilidades a las AAPP</text>
   <rect x="375" y="124" width="320" height="38" rx="6" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="389" y="148" class="t"><tspan class="b">g)</tspan> Identificación y firma electrónica (art. 9)</text>
+  <text x="389" y="148" class="t"><tspan class="b">g)</tspan> Identificación y firma electrónica (esta Ley)</text>
   <rect x="375" y="168" width="320" height="38" rx="6" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="389" y="192" class="t"><tspan class="b">h)</tspan> Protección de datos personales</text>
   <rect x="375" y="212" width="320" height="38" rx="6" fill="#e8f0f8" stroke="#0055a0"/>
@@ -203,10 +203,10 @@
 ## D5 · Identificación vs firma electrónica
 
 **Sección**: § 7 — Identificación y firma (arts. 9-12)
-**Propósito**: Fijar la diferencia clave identificación ≠ firma (muy preguntada).
+**Propósito**: Fijar la diferencia identificación ≠ firma (arts. 9-11 LPACAP).
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 310" role="img" aria-label="La identificación acredita quién eres y se exige para cualquier actuación; la firma manifiesta la voluntad y solo se exige para formular solicitudes, presentar declaraciones, interponer recursos, desistir o renunciar. Quien firma se identifica, pero identificarse no implica firmar">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 310" role="img" aria-label="Con carácter general basta con acreditar la identidad para cualquier actuación del procedimiento; la firma acredita la voluntad y el consentimiento y solo es obligatoria para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos. Cuando se firma, la identidad se entiende ya acreditada por el propio acto de la firma">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -216,23 +216,23 @@
   <text x="185" y="40" class="h">IDENTIFICACIÓN (art. 9)</text>
   <text x="185" y="57" class="h" style="font-weight:400;font-size:11px">Acredita QUIÉN eres</text>
   <rect x="370" y="20" width="290" height="44" rx="8" fill="#2d8659"/>
-  <text x="515" y="40" class="h">FIRMA (art. 10)</text>
+  <text x="515" y="40" class="h">FIRMA (arts. 10-11)</text>
   <text x="515" y="57" class="h" style="font-weight:400;font-size:11px">Manifiesta la VOLUNTAD</text>
   <rect x="40" y="80" width="290" height="120" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="185" y="104" class="t" style="font-weight:700">Para CUALQUIER actuación</text>
-  <text x="185" y="128" class="s">· Certificado electrónico cualificado</text>
-  <text x="185" y="148" class="s">· Sello electrónico</text>
-  <text x="185" y="168" class="s">· Clave concertada (Cl@ve PIN)</text>
-  <text x="185" y="188" class="s">· Otros con registro previo</text>
+  <text x="185" y="104" class="t" style="font-weight:700">Basta para CUALQUIER actuación</text>
+  <text x="185" y="128" class="s">· Certificado cualificado de firma</text>
+  <text x="185" y="148" class="s">· Certificado cualificado de sello</text>
+  <text x="185" y="168" class="s">· Otros sistemas que se consideren</text>
+  <text x="185" y="188" class="s">válidos, con registro previo (art. 9.2)</text>
   <rect x="370" y="80" width="290" height="120" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="515" y="104" class="t" style="font-weight:700">Solo si se FORMULA un acto</text>
+  <text x="515" y="104" class="t" style="font-weight:700">Obligatoria solo para (art. 11.2)</text>
   <text x="515" y="128" class="s">· Solicitudes</text>
-  <text x="515" y="148" class="s">· Declaraciones responsables</text>
-  <text x="515" y="168" class="s">· Recursos · Desistimiento</text>
+  <text x="515" y="148" class="s">· Declaraciones resp. o comunicaciones</text>
+  <text x="515" y="168" class="s">· Recursos · Desistir de acciones</text>
   <text x="515" y="188" class="s">· Renuncia de derechos</text>
   <rect x="120" y="222" width="460" height="68" rx="8" fill="#fdecea" stroke="#d13c3c"/>
-  <text x="350" y="248" class="t" style="font-weight:700;fill:#b32d2d">Regla de oro</text>
-  <text x="350" y="270" class="s">Quien FIRMA siempre se identifica · pero IDENTIFICARSE no implica firmar</text>
+  <text x="350" y="248" class="t" style="font-weight:700;fill:#b32d2d">Identificación ≠ firma</text>
+  <text x="350" y="270" class="s">Al usar un sistema de firma, la identidad se entiende ya acreditada (art. 10.5)</text>
 </svg>
 ```
 
@@ -257,11 +257,11 @@
   <rect x="20" y="112" width="135" height="78" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="87" y="142" class="t" style="font-weight:700">Registro</text>
   <text x="87" y="160" class="t" style="font-weight:700">electrónico</text>
-  <text x="87" y="178" class="s">de la AP destino</text>
+  <text x="87" y="178" class="s">de la Adm. destino</text>
   <rect x="168" y="112" width="135" height="78" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="235" y="142" class="t" style="font-weight:700">Oficinas de</text>
   <text x="235" y="160" class="t" style="font-weight:700">Correos</text>
-  <text x="235" y="178" class="s">(sobre abierto)</text>
+  <text x="235" y="178" class="s">(art. 16.4.b)</text>
   <rect x="316" y="112" width="135" height="78" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="383" y="142" class="t" style="font-weight:700">Consulados y</text>
   <text x="383" y="160" class="t" style="font-weight:700">embajadas</text>
@@ -369,7 +369,7 @@
   <text x="570" y="184" class="s">régimen sancionador</text>
   <text x="570" y="202" class="s">de los altos cargos</text>
   <rect x="120" y="250" width="460" height="38" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="350" y="274" class="s" style="font-weight:700;fill:#b5740f">Control del cumplimiento: Consejo de Transparencia y Buen Gobierno</text>
+  <text x="350" y="274" class="s" style="font-weight:700;fill:#b5740f">Control (AGE, art. 9): Consejo de Transparencia y Buen Gobierno</text>
 </svg>
 ```
 
@@ -414,7 +414,7 @@
   <text x="572" y="200" class="s">Presupuestos y cuentas</text>
   <text x="572" y="218" class="s">Retribuciones altos cargos</text>
   <rect x="160" y="256" width="380" height="34" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="350" y="278" class="s" style="font-weight:700;fill:#b5740f">Se publica en el Portal de la Transparencia · reutilizable</text>
+  <text x="350" y="278" class="s" style="font-weight:700;fill:#b5740f">Sedes electrónicas o webs · preferiblemente reutilizable</text>
 </svg>
 ```
 
@@ -451,8 +451,8 @@
   <path d="M536 106 h26" stroke="#0055a0" stroke-width="2" marker-end="url(#a10)"/>
   <rect x="566" y="60" width="140" height="92" rx="8" fill="#2d8659"/>
   <text x="636" y="92" class="h">4 · ACCESO</text>
-  <text x="636" y="114" class="h" style="font-weight:400;font-size:10px">Electrónico</text>
-  <text x="636" y="132" class="h" style="font-weight:400;font-size:10px">(art. 22)</text>
+  <text x="636" y="114" class="h" style="font-weight:400;font-size:10px">Preferentemente</text>
+  <text x="636" y="132" class="h" style="font-weight:400;font-size:10px">electrónico (art. 22)</text>
   <rect x="240" y="196" width="240" height="84" rx="8" fill="#fdecea" stroke="#d13c3c"/>
   <text x="360" y="222" class="t" style="font-weight:700;fill:#b32d2d">Silencio NEGATIVO</text>
   <text x="360" y="244" class="s">Si no resuelve en plazo, la solicitud</text>
@@ -481,7 +481,7 @@
   <text x="185" y="57" class="h" style="font-weight:400;font-size:11px">Justificados y proporcionados</text>
   <rect x="20" y="76" width="330" height="128" rx="8" fill="#fdecea" stroke="#d13c3c"/>
   <text x="38" y="100" class="s">· Seguridad nacional y defensa</text>
-  <text x="38" y="122" class="s">· Seguridad pública · prevención de delitos</text>
+  <text x="38" y="122" class="s">· Seguridad pública · prevención de ilícitos</text>
   <text x="38" y="144" class="s">· Intereses económicos y comerciales</text>
   <text x="38" y="166" class="s">· Funciones de vigilancia e inspección</text>
   <text x="38" y="188" class="s">· Protección de datos personales (art. 15)</text>
@@ -509,7 +509,7 @@
 **Propósito**: Visión integrada de las tres normas y la ordenanza municipal.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-label="Mapa resumen: la Ley 39/2015 regula derechos, interesados, registros y plazos; la Ley 40/2015 la organización interna; la Ley 19/2013 la transparencia con publicidad activa, derecho de acceso y buen gobierno; y la Ordenanza de Transparencia de Madrid de 2016 refuerza la transparencia municipal con el registro de lobbies y los datos abiertos">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-label="Mapa resumen: la Ley 39/2015 regula derechos, interesados, registros y plazos; la Ley 40/2015 la organización interna; la Ley 19/2013 la transparencia con publicidad activa, derecho de acceso y buen gobierno; y la Ordenanza de Transparencia de Madrid de 2016 regula la transparencia municipal, la reutilización y el Registro de lobbies">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:11.5px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -539,8 +539,8 @@
   <rect x="370" y="216" width="330" height="124" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="535" y="240" class="t" style="font-weight:700;fill:#b5740f">ORDENANZA DE MADRID (2016)</text>
   <text x="535" y="262" class="s">Acuerdo del Pleno de 27-jul-2016</text>
-  <text x="535" y="282" class="s">Refuerza la publicidad activa municipal</text>
-  <text x="535" y="298" class="s">Registro de grupos de interés (lobbies)</text>
-  <text x="535" y="318" class="s">Datos abiertos (reutilización gratuita)</text>
+  <text x="535" y="282" class="s">Publicidad activa propia (arts. 8-17)</text>
+  <text x="535" y="298" class="s">Registro de lobbies (arts. 34-39)</text>
+  <text x="535" y="318" class="s">Reutilización gratuita (art. 27)</text>
 </svg>
 ```

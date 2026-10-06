@@ -1,8 +1,8 @@
 # Tema 6 — Checklist de Validación
 
 > **Título oficial**: Ley 39/2015 (LPACAP): derechos, interesados y registros. Ley 19/2013 (LTBG): derecho de acceso a la información pública.
-> **Versión**: 1.1 — Correcciones de María (art. 53, art. 17 y registro de lobbies)
-> **Fecha**: 2026-06-25
+> **Versión**: 1.3 — Revisión jurídica
+> **Fecha**: 2026-10-01
 > **Revisoras**: María + Ana (IAM) · **Datos volátiles**: Jesús (eTrivium)
 
 ---
@@ -18,7 +18,7 @@
 ## 1. Fuentes y trazabilidad
 
 - [ ] Las fuentes nucleares son la **LPACAP (Ley 39/2015)** y la **LTBG (Ley 19/2013)** en versión consolidada, más la **Ordenanza de Transparencia de Madrid (2016)**.
-- [ ] No existe PDF resumen del cliente para este tema; el contenido se ha generado del **texto oficial** a partir del índice `TEMA_06.docx`.
+- [ ] El contenido se ha elaborado a partir del **texto oficial** de las normas (BOE y BOAM/BOCM, versión consolidada).
 - [ ] Cada afirmación que reproduce el articulado está referenciada con `[LPACAP, art. X]`, `[LTBG, art. X]` u `[ORD-MAD, art. X]`.
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo concreto.
 
@@ -26,28 +26,28 @@
 
 - [ ] El `tema-6-indice.md` refleja fielmente la estructura de `tema-6-contenido.md`.
 - [ ] Las secciones cubren: LPACAP (objeto y relación con la 40/2015), derechos del art. 13, **derechos del interesado (art. 53)**, ámbito digital, interesados (arts. 3-6), identificación y firma (arts. 9-12), **registros (art. 16) y archivos / Archivo Electrónico Único (art. 17)**, relación electrónica (art. 14) y plazos (arts. 30-31); LTBG (objeto y principios), publicidad activa (arts. 5-11), derecho de acceso (arts. 12-24), límites e inadmisión, CTBG; y la Ordenanza de Madrid **con su Registro de grupos de interés (lobbies)**.
-- [ ] Los conceptos memorizables aparecen como `[DATO CLAVE EXAMEN]`.
-- [ ] Las reproducciones del articulado aparecen como `[CITA NORMATIVA]`.
-- [ ] Los ejemplos del Ayto de Madrid / IAM están marcados como `[EJEMPLO AYTO MADRID]`.
-- [ ] Los enlaces a otros temas se marcan como `[REFERENCIA CRUZADA]`.
+- [ ] Los conceptos memorizables aparecen en cajas **Dato clave**.
+- [ ] Las reproducciones del articulado aparecen en cajas **Cita normativa**.
+- [ ] Los ejemplos del Ayto de Madrid / IAM aparecen en cajas **Ejemplo de aplicación en el Ayto**.
+- [ ] Los enlaces a otros temas aparecen en cajas **Relación con otros temas**.
 
 ## 3. Rigor jurídico (datos sensibles)
 
-- [ ] LPACAP en vigor el **2 de octubre de 2016**; pareja de la **Ley 40/2015** [DF 7.ª].
-- [ ] Catálogo del **art. 13** correcto (a-i), distinguido de los derechos del **interesado** (art. 53), que ahora se desarrollan en su propia sección (§4).
+- [ ] LPACAP en vigor el **2 de octubre de 2016** (registros, apoderamientos, punto de acceso general y archivo único: efectos desde el **2 de abril de 2021**); pareja de la **Ley 40/2015** [DF 7.ª].
+- [ ] Catálogo del **art. 13** correcto (a-i), distinguido de los derechos del **interesado** (art. 53.1, a-i, y art. 53.2), que se desarrollan en su propia sección (§4).
 - [ ] **Archivo Electrónico Único** (art. 17): conserva documentos de procedimientos **finalizados**; distinto del registro de entrada/salida (art. 16).
-- [ ] **Registro de lobbies** de Madrid: **obligatorio**, **público**, vinculado a la publicación de agendas de los cargos.
+- [ ] **Registro de lobbies** de Madrid: **gratuito y público** (art. 35), inscripción **previa y obligatoria** para mantener reuniones (art. 38.1), reuniones publicadas en las agendas (art. 36.2).
 - [ ] Capacidad de obrar: personas físicas/jurídicas + **menores** (sin asistencia) + **entidades sin personalidad** cuando la ley lo declare [art. 3].
 - [ ] Representación: se **presume** para mero trámite; se **acredita** para solicitudes, recursos, desistimiento y renuncia [art. 5.3].
-- [ ] **Identificación ≠ firma**: identificar (art. 9) acredita quién; firmar (art. 10) manifiesta voluntad y solo se exige para ciertos actos.
-- [ ] **Registro Electrónico General**: uno por Administración, interoperable, 24/7 [art. 16].
+- [ ] **Identificación ≠ firma**: con carácter general basta acreditar la identidad (art. 11.1); la firma solo es obligatoria para los actos del art. 11.2.
+- [ ] **Registro Electrónico General**: uno por Administración, interoperable [art. 16]; presentación todos los días del año durante las 24 horas [art. 31.2.a].
 - [ ] **Cinco** sujetos obligados a relación electrónica [art. 14.2].
-- [ ] Cómputo de plazos: **sábados inhábiles**; días al día siguiente; meses **de fecha a fecha** [arts. 30-31].
+- [ ] Cómputo de plazos: **sábados excluidos** del cómputo por días; inicio al día siguiente; meses y años hasta el mismo día del mes o año de vencimiento [arts. 30-31].
 - [ ] LTBG = **publicidad activa + acceso + buen gobierno**.
-- [ ] Derecho de acceso: **todas las personas**, sin motivar; resolución **1 mes** (ampliable a 2); silencio **negativo**; terceros **15 días** [arts. 17-20].
+- [ ] Derecho de acceso: **todas las personas**, sin obligación de motivar; resolución **1 mes** (ampliable por otro mes); silencio **desestimatorio**; terceros **15 días** [arts. 12-20].
 - [ ] Límites **justificados y proporcionados** [art. 14.2]; causas de **inadmisión** tasadas [art. 18].
-- [ ] **Reclamación ante el CTBG**: potestativa y previa; **1 mes** para interponer; CTBG resuelve en **3 meses** (silencio negativo) [art. 24].
-- [ ] Ordenanza de Madrid: **Acuerdo del Pleno de 27-jul-2016** (BOAM 17/08/2016); registro de **lobbies**; publicidad activa reforzada.
+- [ ] **Reclamación ante el CTBG**: potestativa y previa; **1 mes** para interponer; plazo para resolver **3 meses** (silencio desestimatorio) [art. 24]; órganos autonómicos [art. 24.6 y DA 4.ª].
+- [ ] Ordenanza de Madrid: **Acuerdo del Pleno de 27-jul-2016** (BOAM nº 7724 y BOCM nº 196, de 17/08/2016); principios del art. 4; **Registro de lobbies** (arts. 34-39); reutilización (arts. 27-33); recursos y reclamaciones (art. 26).
 
 ## 4. Diagramas SVG
 
@@ -59,8 +59,8 @@
 
 ## 5. Banco de 160 preguntas
 
-- [ ] Las 160 preguntas tienen 3 opciones y una única respuesta correcta verificable.
-- [ ] La distribución A/B/C está equilibrada (~50/50/50) tras el balanceo automático del builder.
+- [ ] Las 160 preguntas tienen 3 opciones y una única respuesta correcta, tomada del texto literal del precepto citado (o con variaciones leves); los distractores son variaciones leves e inequívocamente falsas.
+- [ ] La distribución A/B/C está equilibrada (54/53/53 en el `.md`; el builder la reequilibra en el HTML).
 - [ ] No hay preguntas ambiguas.
 - [ ] Cada respuesta cita su referencia normativa.
 
@@ -92,11 +92,11 @@
 
 ## Observaciones generales
 
-### Correcciones de María (IAM) aplicadas en v1.1
+### Correcciones aplicadas en v1.1
 
-1. **Nota de conexión en el art. 13**: se enlazan las letras d), g) y h) con los epígrafes donde se desarrollan (§§7, 9, 11-15) y con el nuevo §4 (art. 53), para no estudiarlas como bloques sueltos.
-2. **Nuevo §4 — Derechos del interesado en el procedimiento (art. 53)**: catálogo completo (art. 53.1) + derechos del presunto responsable en el sancionador (art. 53.2). Lo pide el enunciado oficial ("derechos... y Registros").
-3. **Nuevo §9 — Los archivos. El Archivo Electrónico Único (art. 17)**: completa el epígrafe "Registros" del enunciado, distinguiendo registro (art. 16) de archivo (art. 17). Relevante para el perfil TIC (preservación de expedientes electrónicos).
+1. **Nota de conexión en el art. 13**: se enlazan las letras d), g) y h) con los epígrafes donde se desarrollan (§§7, 9, 11-15) y con el nuevo §4 (art. 53).
+2. **Nuevo §4 — Derechos del interesado en el procedimiento (art. 53)**: catálogo completo (art. 53.1) + derechos del presunto responsable en el sancionador (art. 53.2).
+3. **Nuevo §9 — Los archivos. El archivo electrónico único (art. 17)**: distingue registro (art. 16) de archivo (art. 17).
 4. **Desarrollo del Registro de grupos de interés (lobbies)** en §16.1: quién debe inscribirse, carácter obligatorio, información que se publica.
 5. **+10 preguntas de test** (151-160) sobre el contenido nuevo.
 
